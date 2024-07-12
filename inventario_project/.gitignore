@@ -1,0 +1,3 @@
+# Esto con el fin de que cuando demos un pull, no se suba la carpeta venv porque tiene demasiados archivos
+# Que no vamos a usar
+venv/
